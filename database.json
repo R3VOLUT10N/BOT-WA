@@ -1,0 +1,124 @@
+{
+  "users": {
+    "6285608473749@s.whatsapp.net": {
+      "exp": 221,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Founder GANS",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false
+    },
+    "6281414163208@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Saskra Bot",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false
+    },
+    "6287827836427@s.whatsapp.net": {
+      "exp": 26,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Lee Sistem Informasi",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false
+    },
+    "6289613597440@s.whatsapp.net": {
+      "exp": 25,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Achmad Nur Sistem Informasi",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": false
+    }
+  },
+  "chats": {
+    "6285608473749@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false
+    },
+    "6287827836427-1631338320@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false
+    }
+  },
+  "stats": {
+    "menu.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1632103834425,
+      "lastSuccess": 1632103834425
+    },
+    "nulis.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1632104238716,
+      "lastSuccess": 1632104238716
+    },
+    "nulis2.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1632104197283,
+      "lastSuccess": 1632104197283
+    },
+    "magernulis.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1632105317722,
+      "lastSuccess": 0
+    },
+    "voicechanger.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1632105370968,
+      "lastSuccess": 1632105370968
+    }
+  },
+  "msgs": {},
+  "sticker": {}
+}
